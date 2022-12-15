@@ -1,0 +1,7 @@
+Algoritmo AreaT
+	Escribir "INGRESE LONGITUD DE LA BASE DEL TRIANGULO:"
+	Leer BASE
+	Escribir "INGRESE LONGITUD DE LA ALTURA"
+	Leer H
+	Escribir "EL ÁREA DEL TRIANGULO ES:" BASE*H/2
+FinAlgoritmo
